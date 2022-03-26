@@ -9,7 +9,7 @@ Include Writing and InPlement
 [PQDT](http://www-pqdtcn-com-s.vpn.cdut.edu.cn:8118/)  
 [Web of Science](http://www-webofscience-com-s.vpn.cdut.edu.cn:8118/wos/alldb/basic-search)  
 [SciHub](https://sci-hub.st/)  
-[CVPR/ECCV 2020-2022](https://sci-hub.st/
+[CVPR/ECCV 2020-2022](https://sci-hub.st/)
 ## *Recently work*  
 *Convolution Scheme*:  
 
