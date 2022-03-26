@@ -3,13 +3,13 @@ Include Writing and InPlement
                                               ![image](https://github.com/huitang96/PaperList-2D/blob/master/images/Welcome%20(1).png)  
                                                                                                                                                       Tang Hui [CV](https://github.com/huitang96/PaperList-2D/blob/master/images/cv.pdf)  
 ## *WebSite*
-([Nature Machine Intelligence ](https://www.nature.com/natmachintell/))
+[Nature Machine Intelligence ](https://www.nature.com/natmachintell/)
 
 ## *DataBASE*
-([PQDT](http://www-pqdtcn-com-s.vpn.cdut.edu.cn:8118/))  
-([Web of Science](http://www-webofscience-com-s.vpn.cdut.edu.cn:8118/wos/alldb/basic-search))  
-([SciHub](https://sci-hub.st/))  
-[CVPR/ECCV 2020-2022](https://sci-hub.st/)
+[PQDT](http://www-pqdtcn-com-s.vpn.cdut.edu.cn:8118/)  
+[Web of Science](http://www-webofscience-com-s.vpn.cdut.edu.cn:8118/wos/alldb/basic-search)  
+[SciHub](https://sci-hub.st/)  
+[CVPR/ECCV 2020-2022](https://sci-hub.st/
 ## *Recently work*  
 *Convolution Scheme*:  
 
