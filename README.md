@@ -12,6 +12,8 @@ Include Writing and InPlement
 [CVPR/ECCV 2020-2022](https://sci-hub.st/)
 ## *Recently work*  
 *Convolution Scheme*:  
+*Feature Pyramid Network*:  
+*Multi-Scale Dilation Convoluton*:  
 
 ## *2D Object Detection PaperL*
 ### 1998  
