@@ -6,14 +6,10 @@ Include Writing and InPlement
 ([Nature Machine Intelligence ](https://www.nature.com/natmachintell/))
 
 ## *DataBASE*
-([PQDT](http://www-pqdtcn-com-s.vpn.cdut.edu.cn:8118/))
-([Web of Science](http://www-webofscience-com-s.vpn.cdut.edu.cn:8118/wos/alldb/basic-search))
-([SciHub](https://sci-hub.st/))
-((CVPR2022LIST)[]) ((CVPR2021LIST)[])((CVPR2020LIST)[])
-((ECCV2022LIST)[]) ((ECCV2021LIST)[])((ECCV2020LIST)[])
-((ICCV2022LIST)[]) ((ICCV2021LIST)[])((ICCV2020LIST)[])
-((AAAI2022LIST)[]) ((AAAI2021LIST)[])((AAAI2020LIST)[])
-((NIPS2022LIST)[]) ((NIPS2021LIST)[])((NIPS2020LIST)[])
+([PQDT](http://www-pqdtcn-com-s.vpn.cdut.edu.cn:8118/))  
+([Web of Science](http://www-webofscience-com-s.vpn.cdut.edu.cn:8118/wos/alldb/basic-search))  
+([SciHub](https://sci-hub.st/))  
+[CVPR/ECCV 2020-2022](https://sci-hub.st/)
 ## *Recently work*  
 *Convolution Scheme*:  
 
