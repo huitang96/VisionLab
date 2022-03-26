@@ -18,4 +18,4 @@ Include Writing and InPlement
 *ABSTRAT*: 2012年，Hinton课题组将深度学习方法引入图像识别，设计了卷积神经网络AlexNet用于ImageNet1000个类别的大规模图像识别，在当时取得了显著优于其它识别算法的效果。  
 ## *Related Research*
 *CARAFE*: CARAFE: Content-Aware ReAssembly of FEatures ([PDF](https://arxiv.org/pdf/1905.02188.pdf))  
-*CITE*: Wang J, Chen K, Xu R, Liu Z, Loy CC, Lin D. Carafe: Content-aware reassembly of features. InProceedings of the IEEE/CVF International Conference on Computer Vision 2019 (pp. 3007-3016).  
+*CITE*: Wang J, Chen K, Xu R, Liu Z, Loy CC, Lin D. Carafe: Content-aware reassembly of features. IEEE/CVF International Conference on Computer Vision. 2019, 3007-3016.   
