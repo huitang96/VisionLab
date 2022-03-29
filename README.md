@@ -44,7 +44,7 @@ VISION LAB
 **CARAFE**: CARAFE: Content-Aware ReAssembly of FEatures ([PDF](https://arxiv.org/pdf/1905.02188.pdf))  
 ****
 
-|Journal/Conference name|classes|Submission time|Notes|Wesite
+|Journal/Conference|classes|SubmissionTime|Notes|Wesite
 |---|---|---|---|---
 |IEEE Signal Processing Letter(SPL)|JCR-2,IF=3.1|2 Months|Writing Skills and Mathematical principles|[offical](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=97)  [Letpub](http://www.letpub.com.cn/index.php?page=journalapp&view=detail&journalid=3353)
 
