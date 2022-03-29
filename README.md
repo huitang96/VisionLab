@@ -28,17 +28,17 @@ Include Writing and InPlement
 **R-CNN**: Rich feature hierarchies for accurate object detection and semantic segmentation  ([PDF2](https://arxiv.org/pdf/1311.2524v5.pdf))  
 **CITE**: Girshick R, Donahue J, Darrell T, Malik J. Rich feature hierarchies for accurate object detection and semantic segmentation. IEEE conference on computer vision and pattern recognition. 2014, 580-587.  
 **ABSTART**: 2014年，Girshick R等人通过设计卷积神经网络CNN用于提取目标的特征，最后用于目标检测和语义分割，结果表明显著的优于OverFeat方法  
-1、训练分多步：R-CNN的训练先要fine tuning一个预训练的网络，然后针对每个类别都训练一个SVM分类器，最后还要用regressors对bounding-box进行回归，另外region proposal也要单独用selective search的方式获得，步骤比较繁琐。
-2、时间和内存消耗比较大。在训练SVM和回归的时候需要用网络训练的特征作为输入，特征保存在磁盘上再读入的时间消耗还是比较大的。
-3、测试的时候也比较慢，每张图片的每个region proposal都要做卷积，重复操作太多。
+1、训练分多步：R-CNN的训练先要fine tuning一个预训练的网络，然后针对每个类别都训练一个SVM分类器，最后还要用regressors对bounding-box进行回归，另外region proposal也要单独用selective search的方式获得，步骤比较繁琐  
+2、时间和内存消耗比较大。在训练SVM和回归的时候需要用网络训练的特征作为输入，特征保存在磁盘上再读入的时间消耗还是比较大的  
+3、测试的时候也比较慢，每张图片的每个region proposal都要做卷积，重复操作太多  
 
 #### 2015  
 **Fast R-CNN**: Fast R-CNN ([PDF](https://arxiv.org/pdf/1504.08083.pdf)  
-**CITE**: Girshick R. Fast r-cnn. IEEE international conference on computer vision. 2015, 1440-1448.
-**ABSTRACT**: Girshick R在R-CNN的基础上，
-1、卷积不再是对每个region proposal进行，而是直接对整张图像，这样减少了很多重复计算。原来RCNN是对每个region proposal分别做卷积，因为一张图像中有2000左右的region proposal，肯定相互之间的重叠率很高，因此产生重复计算。
-2、用ROI pooling进行特征的尺寸变换，因为全连接层的输入要求尺寸大小一样，因此不能直接把region proposal作为输入。
-3、将regressor放进网络一起训练，每个类别对应一个regressor，同时用softmax代替原来的SVM分类器。
+**CITE**: Girshick R. Fast r-cnn. IEEE international conference on computer vision. 2015, 1440-1448.  
+**ABSTRACT**: Girshick R在R-CNN的基础上，  
+1、卷积不再是对每个region proposal进行，而是直接对整张图像，这样减少了很多重复计算。原来RCNN是对每个region proposal分别做卷积，因为一张图像中有2000左右的region proposal，肯定相互之间的重叠率很高，因此产生重复计算  
+2、用ROI pooling进行特征的尺寸变换，因为全连接层的输入要求尺寸大小一样，因此不能直接把region proposal作为输入  
+3、将regressor放进网络一起训练，每个类别对应一个regressor，同时用softmax代替原来的SVM分类器  
 
 ## *Related Research*  
 **CARAFE**: CARAFE: Content-Aware ReAssembly of FEatures ([PDF](https://arxiv.org/pdf/1905.02188.pdf))  
