@@ -1,8 +1,7 @@
 # VISION LAB
-<p align="VISION LAB"></p>
+<p align="center">VISION LAB</p>
 Include Writing and InPlement
-                                              ![image](https://github.com/huitang96/PaperList-2D/blob/master/images/Welcome%20(1).png)  
-                                                                                                                                                      Tang Hui [CV](https://github.com/huitang96/PaperList-2D/blob/master/images/cv.pdf)  
+
 ## *WebSite*
 [Nature Machine Intelligence ](https://www.nature.com/natmachintell/)
 
