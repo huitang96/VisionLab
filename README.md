@@ -22,7 +22,7 @@ Include Writing and InPlement
 *ABSTART*: 1998年，LeCun Y等人设计了5层的卷积神经网络LeNet-5并用于银行支票2D手写字体识别，取得较好的实用价值  
 #### 2012
 *AlexNet*: ImageNet Classification with Deep Convolutional Neural Networks ([PDF12](https://proceedings.neurips.cc/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf) [PDF17](https://sci-hub.st/10.1145/3065386))  
-*CITE*: Krizhevsky A, Sutskever I, Hinton GE. Imagenet classification with deep convolutional neural networks. Advances in neural information processing systems. 2012;25.
+*CITE*: Krizhevsky A, Sutskever I, Hinton GE. Imagenet classification with deep convolutional neural networks. Advances in neural information processing systems. 2012;25.  
 *ABSTRAT*: 2012年，Hinton课题组将深度学习方法引入图像识别，设计了卷积神经网络AlexNet用于ImageNet1000个类别的大规模图像识别，在当时取得了显著优于其它识别算法的效果。  
 #### 2014  
 *R-CNN*: Rich feature hierarchies for accurate object detection and semantic segmentation  ([PDF2](https://arxiv.org/pdf/1311.2524v5.pdf))  
