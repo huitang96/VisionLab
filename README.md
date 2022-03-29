@@ -52,5 +52,5 @@ VISION LAB
 ****
 ## *BOOKS and Mertials*  
 ****
-
+[CSCD中文期刊](https://github.com/huitang96/PaperList-2D/blob/master/Resource/CSCD%E6%9C%9F%E5%88%8A%E7%9B%AE%E5%BD%95.pdf)
 ****
