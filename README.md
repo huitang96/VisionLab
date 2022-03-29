@@ -37,5 +37,7 @@ Include Writing and InPlement
 2、用ROI pooling进行特征的尺寸变换，因为全连接层的输入要求尺寸大小一样，因此不能直接把region proposal作为输入  
 3、将regressor放进网络一起训练，每个类别对应一个regressor，同时用softmax代替原来的SVM分类器  
 
+**Faster R-CNN**Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks  
+**ABSTRACT**: 
 ## *Related Research*  
 **CARAFE**: CARAFE: Content-Aware ReAssembly of FEatures ([PDF](https://arxiv.org/pdf/1905.02188.pdf))  
