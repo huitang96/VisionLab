@@ -1,27 +1,23 @@
 <p align="center">
-## VISION LAB
+VISION LAB
 </p>
 
 ## *WebSite*
 [Nature Machine Intelligence ](https://www.nature.com/natmachintell/)
-
 ## *Scholar Research*
 [HeKaiming](https://scholar.google.com/citations?hl=zh-CN&user=DhtAFkwAAAAJ&view_op=list_works&sortby=pubdate)   
 [RossGirshick](https://scholar.google.com/citations?hl=zh-CN&user=W8VIEZgAAAAJ&view_op=list_works&sortby=pubdate)  
 [ChenKai](https://scholar.google.com/citations?hl=zh-CN&user=eGD0b7IAAAAJ&view_op=list_works&sortby=pubdate)  
 [Sunjian](https://scholar.google.com/citations?hl=zh-CN&user=ALVSZAYAAAAJ&view_op=list_works&sortby=pubdate)
 [Jitendra Malik](https://scholar.google.com/citations?hl=zh-CN&user=oY9R5YQAAAAJ&view_op=list_works&sortby=pubdate)
-
 ## *DataBASE*
 [PQDT](http://www-pqdtcn-com-s.vpn.cdut.edu.cn:8118/)  
 [Web of Science](http://www-webofscience-com-s.vpn.cdut.edu.cn:8118/wos/alldb/basic-search)  
 [SciHub](https://sci-hub.st/)  
 [CVPR/ECCV 2020-2022](https://sci-hub.st/)
-## *Recently work*  
-*Convolution Scheme*:  
-*Feature Pyramid Network*:  
-*Multi-Scale Dilation Convoluton*:  
-
+## *Research Interests*  
+*Computer Vision*  
+*Machine Learning*  
 ## *2D Object Detection PaperL*
 #### 1998  
 **LeNet-5**: Gradient-Based Learning Applied to Document Recognition ([PDF](https://sci-hub.st/10.1109/5.726791))  
@@ -36,7 +32,7 @@
 2、时间和内存消耗比较大。在训练SVM和回归的时候需要用网络训练的特征作为输入，特征保存在磁盘上再读入的时间消耗还是比较大的  
 3、测试的时候也比较慢，每张图片的每个region proposal都要做卷积，重复操作太多  
 #### 2015  
-**Fast R-CNN**: Fast R-CNN ([PDF](https://arxiv.org/pdf/1504.08083.pdf)  
+**Fast R-CNN**: Fast R-CNN ([PDF](https://arxiv.org/pdf/1504.08083.pdf))  
 **Abstract:** Girshick R在R-CNN的基础上，  
 1、卷积不再是对每个region proposal进行，而是直接对整张图像，这样减少了很多重复计算。原来RCNN是对每个region proposal分别做卷积，因为一张图像中有2000左右的region proposal，肯定相互之间的重叠率很高，因此产生重复计算  
 2、用ROI pooling进行特征的尺寸变换，因为全连接层的输入要求尺寸大小一样，因此不能直接把region proposal作为输入  
@@ -46,3 +42,11 @@
 **Abstract:** 
 ## *Related Research*  
 **CARAFE**: CARAFE: Content-Aware ReAssembly of FEatures ([PDF](https://arxiv.org/pdf/1905.02188.pdf))  
+****
+
+|Journal/Conference name|classes|Submission time|Notes|Wesite
+|---|---|---|---|---
+|IEEE Signal Processing Letter(SPL)|JCR-2,IF=3.1|2 Months|Writing Skills and Mathematical principles|[offical](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=97)  [Letpub](http://www.letpub.com.cn/index.php?page=journalapp&view=detail&journalid=3353)
+
+
+****
