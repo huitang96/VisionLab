@@ -8,8 +8,8 @@ VISION LAB
 [HeKaiming](https://scholar.google.com/citations?hl=zh-CN&user=DhtAFkwAAAAJ&view_op=list_works&sortby=pubdate)   
 [RossGirshick](https://scholar.google.com/citations?hl=zh-CN&user=W8VIEZgAAAAJ&view_op=list_works&sortby=pubdate)  
 [ChenKai](https://scholar.google.com/citations?hl=zh-CN&user=eGD0b7IAAAAJ&view_op=list_works&sortby=pubdate)  
-[Sunjian](https://scholar.google.com/citations?hl=zh-CN&user=ALVSZAYAAAAJ&view_op=list_works&sortby=pubdate)
-[Jitendra Malik](https://scholar.google.com/citations?hl=zh-CN&user=oY9R5YQAAAAJ&view_op=list_works&sortby=pubdate)
+[Sunjian](https://scholar.google.com/citations?hl=zh-CN&user=ALVSZAYAAAAJ&view_op=list_works&sortby=pubdate)  
+[Jitendra Malik](https://scholar.google.com/citations?hl=zh-CN&user=oY9R5YQAAAAJ&view_op=list_works&sortby=pubdate)  
 ## *DataBASE*
 [PQDT](http://www-pqdtcn-com-s.vpn.cdut.edu.cn:8118/)  
 [Web of Science](http://www-webofscience-com-s.vpn.cdut.edu.cn:8118/wos/alldb/basic-search)  
