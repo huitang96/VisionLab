@@ -24,8 +24,8 @@ Include Writing and InPlement
 *AlexNet*: ImageNet Classification with Deep Convolutional Neural Networks ([PDF12](https://proceedings.neurips.cc/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf) [PDF17](https://sci-hub.st/10.1145/3065386))  
 *CITE*: Krizhevsky A, Sutskever I, Hinton GE. Imagenet classification with deep convolutional neural networks. Advances in neural information processing systems. 2012;25.
 *ABSTRAT*: 2012年，Hinton课题组将深度学习方法引入图像识别，设计了卷积神经网络AlexNet用于ImageNet1000个类别的大规模图像识别，在当时取得了显著优于其它识别算法的效果。  
-#### 2014 
-*R-CNN*: Rich feature hierarchies for accurate object detection and semantic segmentation  ([PDF2]https://arxiv.org/pdf/1311.2524v5.pdf)  
+#### 2014  
+*R-CNN*: Rich feature hierarchies for accurate object detection and semantic segmentation  ([PDF2](https://arxiv.org/pdf/1311.2524v5.pdf))  
 *CITE*: Girshick R, Donahue J, Darrell T, Malik J. Rich feature hierarchies for accurate object detection and semantic segmentation. IEEE conference on computer vision and pattern recognition. 2014, 580-587.  
 *ABSTART*: 2014年，Girshick R等人通过设计卷积神经网络CNN用于提取目标的特征，最后用于目标检测和语义分割，结果表明显著的优于OverFeat方法  
 ![image](https://github.com/huitang96/PaperList-2D/blob/master/images/AlexNet.png)  
