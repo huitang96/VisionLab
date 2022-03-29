@@ -50,3 +50,7 @@ VISION LAB
 |传感器与微系统|中文核心,CSCD|10天|原理清晰,实验充足|[official](https://cgqj.cbpt.cnki.net/WKE2/WebPublication/index.aspx?mid=CGQJ)  
 |模式识别与人工智能|EI|待了解| |[official](http://manu46.magtech.com.cn/Jweb_prai/CN/volumn/home.shtml)  
 ****
+## *BOOKS and Mertials*  
+****
+
+****
