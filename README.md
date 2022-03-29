@@ -1,5 +1,4 @@
 <p align="center"># VISION LAB</p>
-Include Writing and InPlement
 
 ## *WebSite*
 [Nature Machine Intelligence ](https://www.nature.com/natmachintell/)
