@@ -22,6 +22,8 @@ VISION LAB
 ## *Research Interests*  
 *Computer Vision*  
 *Machine Learning*  
+## *Publication*  
+[目标检测技术-Pytorch实现](https://xxx)  
 ## *2D Object Detection PaperL*
 #### 1998  
 **LeNet-5**: Gradient-Based Learning Applied to Document Recognition ([PDF](https://sci-hub.st/10.1109/5.726791))  
