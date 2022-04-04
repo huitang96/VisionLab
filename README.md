@@ -15,7 +15,7 @@ VISION LAB
 [Web of Science](http://www-webofscience-com-s.vpn.cdut.edu.cn:8118/wos/alldb/basic-search)  
 [SciHub](https://sci-hub.st/)  
 [CVPR/ECCV 2020-2022](https://sci-hub.st/)
-## *Windos*
+## *Windows*
 [Wechat](https://mp.weixin.qq.com/cgi-bin/loginpage?url=%2Fcgi-bin%2Facctclose%3Faction%3Dpage%26token%3D59894322%26lang%3Dzh_CN)  
 [Douyin](https://ID:AILAB)  
 [Company](https://xxx)
