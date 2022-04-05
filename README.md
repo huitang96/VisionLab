@@ -24,6 +24,9 @@ VISION LAB
 *Machine Learning*  
 ## *Publication*  
 [目标检测技术-Pytorch实现](https://xxx)  
+## *Others Link*  
+[中国人工智能协会](https://www.caai.cn/index.php?s=/home/index/index.html)  
+[吴文俊人工智能奖](http://wwjkjj.caai.cn/index.aspx)  
 ## *2D DataSets*  
 MSCOCO-2014  目标检测、语义分割、实例分割、全景分割
 PascalVocal-07+12  
