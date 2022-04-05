@@ -3,30 +3,23 @@ VISION LAB
 </p>
 
 ## *WebSite*
-[Nature Machine Intelligence ](https://www.nature.com/natmachintell/)
+[Nature Machine Intelligence ](https://www.nature.com/natmachintell/)    |    [deepmind](https://www.deepmind.com/)  
 ## *Scholar Research*
-[HeKaiming](https://scholar.google.com/citations?hl=zh-CN&user=DhtAFkwAAAAJ&view_op=list_works&sortby=pubdate)   
-[RossGirshick](https://scholar.google.com/citations?hl=zh-CN&user=W8VIEZgAAAAJ&view_op=list_works&sortby=pubdate)  
-[ChenKai](https://scholar.google.com/citations?hl=zh-CN&user=eGD0b7IAAAAJ&view_op=list_works&sortby=pubdate)  
-[Sunjian](https://scholar.google.com/citations?hl=zh-CN&user=ALVSZAYAAAAJ&view_op=list_works&sortby=pubdate)  
-[Jitendra Malik](https://scholar.google.com/citations?hl=zh-CN&user=oY9R5YQAAAAJ&view_op=list_works&sortby=pubdate)  
+[HeKaiming](https://scholar.google.com/citations?hl=zh-CN&user=DhtAFkwAAAAJ&view_op=list_works&sortby=pubdate)    |    [RossGirshick](https://scholar.google.com/citations?hl=zh-CN&user=W8VIEZgAAAAJ&view_op=list_works&sortby=pubdate)    |    [ChenKai](https://scholar.google.com/citations?hl=zh-CN&user=eGD0b7IAAAAJ&view_op=list_works&sortby=pubdate)    |    [Sunjian](https://scholar.google.com/citations?hl=zh-CN&user=ALVSZAYAAAAJ&view_op=list_works&sortby=pubdate)    |    [Jitendra Malik](https://scholar.google.com/citations?hl=zh-CN&user=oY9R5YQAAAAJ&view_op=list_works&sortby=pubdate)  
 ## *DataBASE*
-[PQDT](http://www-pqdtcn-com-s.vpn.cdut.edu.cn:8118/)  
-[Web of Science](http://www-webofscience-com-s.vpn.cdut.edu.cn:8118/wos/alldb/basic-search)  
-[SciHub](https://sci-hub.st/)  
-[CVPR/ECCV 2020-2022](https://sci-hub.st/)
+[PQDT](http://www-pqdtcn-com-s.vpn.cdut.edu.cn:8118/)    |    [Web of Science](http://www-webofscience-com-s.vpn.cdut.edu.cn:8118/wos/alldb/basic-search)    |    [SciHub](https://sci-hub.st/)    |    [CVPR/ECCV 2020-2022](https://sci-hub.st/)
 ## *Windows*
-[Wechat](https://mp.weixin.qq.com/cgi-bin/loginpage?url=%2Fcgi-bin%2Facctclose%3Faction%3Dpage%26token%3D59894322%26lang%3Dzh_CN)  
-[Douyin](https://ID:AILAB)  
-[Company](https://xxx)
+[Wechat](https://mp.weixin.qq.com/cgi-bin/loginpage?url=%2Fcgi-bin%2Facctclose%3Faction%3Dpage%26token%3D59894322%26lang%3Dzh_CN)    |    [Douyin](https://ID:AILAB)    |    [Company](https://xxx)
 ## *Research Interests*  
-*Computer Vision*  
-*Machine Learning*  
+*Computer Vision*    |    *Machine Learning* 
+## *Recently*  
+yolov5+edgecal：[link1](https://www.bilibili.com/video/BV1tv411N7F4/?spm_id_from=trigger_reload)  [link2](https://github.com/Sharpiless/Yolov5-Flask-VUE)  
+## *Tools*  
+[readpaper](https://readpaper.com/)  
 ## *Publication*  
 [目标检测技术-Pytorch实现](https://xxx)  
 ## *Others Link*  
-[中国人工智能协会](https://www.caai.cn/index.php?s=/home/index/index.html)  
-[吴文俊人工智能奖](http://wwjkjj.caai.cn/index.aspx)  
+[中国人工智能协会](https://www.caai.cn/index.php?s=/home/index/index.html)    |    [吴文俊人工智能奖](http://wwjkjj.caai.cn/index.aspx)  
 ## *2D DataSets*  
 MSCOCO-2014  目标检测、语义分割、实例分割、全景分割
 PascalVocal-07+12  
