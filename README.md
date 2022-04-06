@@ -13,8 +13,8 @@ VISION LAB
 ## *Research Interests*  
 *Computer Vision*    |    *Machine Learning* 
 ## *Recently*  
-yolov5+edgecal：[link1](https://www.bilibili.com/video/BV1tv411N7F4/?spm_id_from=trigger_reload),[link2](https://github.com/Sharpiless/Yolov5-Flask-VUE),[link3](https://blog.csdn.net/weixin_44936889/article/details/110661862),[参考系统的知识](https://www.bilibili.com/video/BV1AT4y1X7b5?from=search&seid=13335361818699862591&spm_id_from=333.337.0.0)  
-## *Tools*  
+yolov5+edgecal：[link1](https://www.bilibili.com/video/BV1tv411N7F4/?spm_id_from=trigger_reload),[link2](https://github.com/Sharpiless/Yolov5-Flask-VUE),[link3](https://blog.csdn.net/weixin_44936889/article/details/110661862),[参考系统的知识](https://www.bilibili.com/video/BV1AT4y1X7b5?from=search&seid=13335361818699862591&spm_id_from=333.337.0.0)  [CSDN板球控制案例](https://blog.csdn.net/qq_37668803/article/details/77184498)  
+## *Tools*    
 [readpaper](https://readpaper.com/)  
 ## *Publication*  
 [目标检测技术-Pytorch实现](https://xxx)  
