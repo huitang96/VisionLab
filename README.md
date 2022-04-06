@@ -7,7 +7,8 @@ VISION LAB
 ## *Scholar Research*
 [HeKaiming](https://scholar.google.com/citations?hl=zh-CN&user=DhtAFkwAAAAJ&view_op=list_works&sortby=pubdate)    |    [RossGirshick](https://scholar.google.com/citations?hl=zh-CN&user=W8VIEZgAAAAJ&view_op=list_works&sortby=pubdate)    |    [ChenKai](https://scholar.google.com/citations?hl=zh-CN&user=eGD0b7IAAAAJ&view_op=list_works&sortby=pubdate)    |    [Sunjian](https://scholar.google.com/citations?hl=zh-CN&user=ALVSZAYAAAAJ&view_op=list_works&sortby=pubdate)    |    [Jitendra Malik](https://scholar.google.com/citations?hl=zh-CN&user=oY9R5YQAAAAJ&view_op=list_works&sortby=pubdate)  
 ## *DataBASE*
-[PQDT](http://www-pqdtcn-com-s.vpn.cdut.edu.cn:8118/)    |    [Web of Science](http://www-webofscience-com-s.vpn.cdut.edu.cn:8118/wos/alldb/basic-search)    |    [SciHub](https://sci-hub.st/)    |    [CVPR/ECCV 2020-2022](https://sci-hub.st/)    |    [CoRL2021](https://openreview.net/group?id=robot-learning.org/CoRL/2021/Conference)  
+[PQDT](http://www-pqdtcn-com-s.vpn.cdut.edu.cn:8118/)    |    [Web of Science](http://www-webofscience-com-s.vpn.cdut.edu.cn:8118/wos/alldb/basic-search)    |    [SciHub](https://sci-hub.st/)  
+[CVPR/ECCV 2020-2022](https://sci-hub.st/)    |    [CoRL2021](https://openreview.net/group?id=robot-learning.org/CoRL/2021/Conference)  
 ## *Windows*
 [Wechat](https://mp.weixin.qq.com/cgi-bin/loginpage?url=%2Fcgi-bin%2Facctclose%3Faction%3Dpage%26token%3D59894322%26lang%3Dzh_CN)    |    [Douyin](https://ID:AILAB)    |    [Company](https://xxx)
 ## *Research Interests*  
