@@ -1,8 +1,9 @@
 <p align="center">
-VISION LAB
+VISION LAB  
+</p>
+<p align="center">
 做有趣的研究、做有意义的研究
 </p>
-
 
 ## *WebSite*
 [Nature Machine Intelligence ](https://www.nature.com/natmachintell/)    |    [deepmind](https://www.deepmind.com/)  
