@@ -15,13 +15,25 @@ VISION LAB
 ## *Windows*
 [Wechat](https://mp.weixin.qq.com/cgi-bin/loginpage?url=%2Fcgi-bin%2Facctclose%3Faction%3Dpage%26token%3D59894322%26lang%3Dzh_CN)    |    [Douyin](https://ID:AILAB)    |    [Company](https://xxx)
 ## *Research Interests*  
-*Computer Vision*    |    *Machine Learning* 
+*Machine Learning:*  
+*Computer Vision:*  
+*语义分割:*  [Gated-SCNN](https://arxiv.org/pdf/1907.05740.pdf)、[ADE20k dataset](https://bbs.huaweicloud.com/blogs/252062)  
+*实例分割:*  
+*目标检测:*  
 ## *Recently*  
 yolov5+edgecal：[link1](https://www.bilibili.com/video/BV1tv411N7F4/?spm_id_from=trigger_reload),[link2](https://github.com/Sharpiless/Yolov5-Flask-VUE),[link3](https://blog.csdn.net/weixin_44936889/article/details/110661862),[参考系统的知识](https://www.bilibili.com/video/BV1AT4y1X7b5?from=search&seid=13335361818699862591&spm_id_from=333.337.0.0)  [CSDN板球控制案例](https://blog.csdn.net/qq_37668803/article/details/77184498)  
 ## *Tools*    
-[readpaper](https://readpaper.com/)  
+[readpaper](https://readpaper.com/)  |  [openmmlab](https://github.com/open-mmlab/mmdetection/)  |  [Python-leetcode](https://github.com/huitang96/leetcode)  
 ## *Publication/resource*  
-[目标检测技术-Pytorch实现](https://xxx)  |   [龙良曲深度学习TF](https://www.youtube.com/watch?v=3fB6OyPW5LU&list=PLh7DRwYmUgh7swOvZUZ52LMeGDmjFH0nv)  
+[目标检测技术-Pytorch实现](https://xxx)  |   [龙良曲深度学习TF](https://www.youtube.com/watch?v=3fB6OyPW5LU&list=PLh7DRwYmUgh7swOvZUZ52LMeGDmjFH0nv)  |  [AI人工智慧系列-台湾](https://interactiveuandmetutorialsac.weebly.com/)  |  [部署](https://blog.csdn.net/u012328159/article/details/81101074) [2](https://blog.csdn.net/chongtong/article/details/96865687)  
+####  LinuxOS 
+[DL-环境安装](https://blog.csdn.net/u014754541/article/details/97108282?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-2.nonecase&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-2.nonecase)   |  [Linux-Windows双系统](https://blog.csdn.net/fesdgasdgasdg/article/details/54183577)  
+查看显卡驱动版本 cat /proc/driver/nvidia/version  
+查看cuda版本 cat  /usr/local/cuda/version.txt  
+查看cudnn版本 cat /usr/local/cuda/include/cudnn.h | grep CUDNN_MAJOR -A 2  
+
+
+
 ## *Others Link*  
 [中国人工智能协会](https://www.caai.cn/index.php?s=/home/index/index.html)    |    [吴文俊人工智能奖](http://wwjkjj.caai.cn/index.aspx)  
 ## *2D DataSets*  
