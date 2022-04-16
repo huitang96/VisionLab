@@ -22,6 +22,7 @@ VISION LAB
 *目标检测:*  
 ## *Recently*  
 yolov5+edgecal：[link1](https://www.bilibili.com/video/BV1tv411N7F4/?spm_id_from=trigger_reload),[link2](https://github.com/Sharpiless/Yolov5-Flask-VUE),[link3](https://blog.csdn.net/weixin_44936889/article/details/110661862),[参考系统的知识](https://www.bilibili.com/video/BV1AT4y1X7b5?from=search&seid=13335361818699862591&spm_id_from=333.337.0.0)  [CSDN板球控制案例](https://blog.csdn.net/qq_37668803/article/details/77184498)  
+一种类似AlphaGo有趣的事情  
 ## *Tools*    
 [readpaper](https://readpaper.com/)  |  [openmmlab](https://github.com/open-mmlab/mmdetection/)  |  [Python-leetcode](https://github.com/huitang96/leetcode)  
 ## *Publication/resource*  
