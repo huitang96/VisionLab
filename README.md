@@ -2,7 +2,8 @@
 VISION LAB  
 </p>
 <p align="center">
-做有趣的研究、做有意义的研究
+做有趣的研究、做有意义的研究  
+学者  
 </p>
 
 ## *WebSite*
