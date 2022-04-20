@@ -1,1 +1,4 @@
 FaceDetection ReadMe
+
+dataset：widerface
+method：improved cascade r-cnn
