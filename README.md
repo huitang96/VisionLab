@@ -24,7 +24,8 @@ VISION LAB
 ## *Recently*  
 yolov5+edgecal：[link1](https://www.bilibili.com/video/BV1tv411N7F4/?spm_id_from=trigger_reload),[link2](https://github.com/Sharpiless/Yolov5-Flask-VUE),[link3](https://blog.csdn.net/weixin_44936889/article/details/110661862),[参考系统的知识](https://www.bilibili.com/video/BV1AT4y1X7b5?from=search&seid=13335361818699862591&spm_id_from=333.337.0.0)  [CSDN板球控制案例](https://blog.csdn.net/qq_37668803/article/details/77184498)  
 tensorflow2.0学习课程- 课程录制与资料整理启示（人工智能实践：Tensorflow笔记-wechat 公众号）  |  [MSP430资料](https://download.csdn.net/download/qq_35558042/10940469?spm=1001.2014.3001.5503)   
-Instace 1:  [FaceDetection](https://github.com/huitang96/VisionLab/tree/master/facedetection)  
+Instance 1:  [FaceDetection](https://github.com/huitang96/VisionLab/tree/master/facedetection)  
+Instance 2: [Detection Review](https://github.com/huitang96/VisionLab/tree/master/facedetection)  
 
 一种类似AlphaGo有趣的事情  
 代表作品--如果能赚钱就更好了，如果是一种积淀、迭代性质的就更好的  
