@@ -24,3 +24,5 @@ cuda-11.0  cudnn-8.0  pytorch-1.8
 [docker](www.baidu.com)  
 MSCOCO 2014  |  PASCAL VOC07+12  
 Cascade R-CNN - Object Detection + Instance Segmataion
+
+[复现指南](https://github.com/ruoqianguo/cascade-rcnn_Pytorch)  
