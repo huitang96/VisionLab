@@ -26,6 +26,7 @@ yolov5+edgecal：[link1](https://www.bilibili.com/video/BV1tv411N7F4/?spm_id_fro
 tensorflow2.0学习课程- 课程录制与资料整理启示（人工智能实践：Tensorflow笔记-wechat 公众号）  |  [MSP430资料](https://download.csdn.net/download/qq_35558042/10940469?spm=1001.2014.3001.5503)   
 Instance 1:  [FaceDetection](https://github.com/huitang96/VisionLab/tree/master/facedetection)  
 Instance 2: [Detection Review](https://github.com/huitang96/VisionLab/tree/master/DetectionReview)  
+Instance 3: [RFNet](https://github.com/huitang96/VisionLab/tree/master/RFNet)  
 
 一种类似AlphaGo有趣的事情  
 代表作品--如果能赚钱就更好了，如果是一种积淀、迭代性质的就更好的  
