@@ -22,5 +22,5 @@ mAP平均精度指标提高1.1%，中尺寸目标精度提高2.1%，卡车类别
 环境：
 cuda-11.0  cudnn-8.0  pytorch-1.8  
 [docker](www.baidu.com)  
-MSCOCO 2014
+MSCOCO 2014  
 Cascade R-CNN - Object Detection + Instance Segmataion
