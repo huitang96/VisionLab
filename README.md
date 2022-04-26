@@ -40,6 +40,7 @@ Instance 3: [RFNet](https://github.com/huitang96/VisionLab/tree/master/RFNet)
 ## *Tools*    
 [readpaper-读论文](https://readpaper.com/)  
 [反向词典-写论文](https://wantwords.net/)   
+[论文预印本](https://arxiv.org/)   [创建账户以及使用](https://cloud.tencent.com/developer/article/1759542)  
 ## 技术或教程记录  
 [Learning Record](https://github.com/huitang96/VisionLab/blob/master/Technical%20course)  
 
