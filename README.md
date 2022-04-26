@@ -38,11 +38,10 @@ Instance 3: [RFNet](https://github.com/huitang96/VisionLab/tree/master/RFNet)
 然后读摘要记录研究方向，拟解决的问题，解决方案，实验结果如何；（资源的第一性）  
 最后定制八个月或五个月计划（执行性）  
 ## *Tools*    
-[readpaper](https://readpaper.com/)  |  [openmmlab](https://github.com/open-mmlab/mmdetection/)  |  [Python-leetcode](https://github.com/huitang96/leetcode)  
+[readpaper-读论文](https://readpaper.com/)  
+[反向词典-写论文](https://wantwords.net/)   
 ## 技术或教程记录  
 [Learning Record](https://github.com/huitang96/VisionLab/blob/master/Technical%20course)  
-
-
 
 ## *Others Link*  
 [中国人工智能协会](https://www.caai.cn/index.php?s=/home/index/index.html)    |    [吴文俊人工智能奖](http://wwjkjj.caai.cn/index.aspx)  
