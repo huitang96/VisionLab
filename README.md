@@ -39,7 +39,7 @@ Instance 3: [RFNet](https://github.com/huitang96/VisionLab/tree/master/RFNet)
 最后定制八个月或五个月计划（执行性）  
 ## *Tools*    
 [readpaper](https://readpaper.com/)  |  [openmmlab](https://github.com/open-mmlab/mmdetection/)  |  [Python-leetcode](https://github.com/huitang96/leetcode)  
-## *Publication/resource*  
+## *技术或教程记录*  
 [目标检测技术-Pytorch实现](https://xxx)  |   [龙良曲深度学习TF](https://www.youtube.com/watch?v=3fB6OyPW5LU&list=PLh7DRwYmUgh7swOvZUZ52LMeGDmjFH0nv)  |  [AI人工智慧系列-台湾](https://interactiveuandmetutorialsac.weebly.com/)  |  [部署](https://blog.csdn.net/u012328159/article/details/81101074) [2](https://blog.csdn.net/chongtong/article/details/96865687)  
 ####  LinuxOS 
 [DL-环境安装](https://blog.csdn.net/u014754541/article/details/97108282?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-2.nonecase&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-2.nonecase)   |  [Linux-Windows双系统](https://blog.csdn.net/fesdgasdgasdg/article/details/54183577)  
