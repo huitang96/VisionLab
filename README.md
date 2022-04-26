@@ -47,6 +47,8 @@ Instance 3: [RFNet](https://github.com/huitang96/VisionLab/tree/master/RFNet)
 查看cuda版本 cat  /usr/local/cuda/version.txt  
 查看cudnn版本 cat /usr/local/cuda/include/cudnn.h | grep CUDNN_MAJOR -A 2  
 
+VMwawre-ubuntu20 [知乎教程](https://zhuanlan.zhihu.com/p/442268322)  | [hcmon driver](http://www.noobyard.com/article/p-wtlfxuml-ew.html)  | [intel vt](https://blog.csdn.net/ABCAA1024/article/details/108468594)  
+
 
 
 ## *Others Link*  
