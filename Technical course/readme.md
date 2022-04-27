@@ -8,3 +8,11 @@
 查看cudnn版本 cat /usr/local/cuda/include/cudnn.h | grep CUDNN_MAJOR -A 2  
 
 VMwawre-ubuntu20 [知乎教程](https://zhuanlan.zhihu.com/p/442268322)  | [hcmon driver](http://www.noobyard.com/article/p-wtlfxuml-ew.html)  | [intel vt](https://blog.csdn.net/ABCAA1024/article/details/108468594)  
+
+
+
+查看torch是否可以用  
+print(torch.cuda.is_available())  是否使用gpu  
+print(torch.__version__)  torch版本  
+安装cuda和cudnn https://blog.csdn.net/jgj123321/article/details/104774786  
+显卡驱动安装 https://blog.csdn.net/opencv_fjc/article/details/106094594  
