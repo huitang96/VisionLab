@@ -5,5 +5,6 @@
 ### 数据处理  
 数据爬取 清洗  
 数据标注 labelme  
-数据转换 labelme2coco  问题不能安装pycocotools  
+数据转换 labelme2coco  
+（已经成功转换为coco格式）在验证过程中 不能安装pycocotools，无法显示【由于时探索阶段，所以阶段性的测试非常重要】   
 
