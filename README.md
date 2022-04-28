@@ -8,6 +8,23 @@ VISION LAB
 内驱力  
 </p>
 
+## *Recently*  
+yolov5+edgecal：[link1](https://www.bilibili.com/video/BV1tv411N7F4/?spm_id_from=trigger_reload),[link2](https://github.com/Sharpiless/Yolov5-Flask-VUE),[link3](https://blog.csdn.net/weixin_44936889/article/details/110661862),[参考系统的知识](https://www.bilibili.com/video/BV1AT4y1X7b5?from=search&seid=13335361818699862591&spm_id_from=333.337.0.0)  [CSDN板球控制案例](https://blog.csdn.net/qq_37668803/article/details/77184498)  
+tensorflow2.0学习课程- 课程录制与资料整理启示（人工智能实践：Tensorflow笔记-wechat 公众号）  |  [MSP430资料](https://download.csdn.net/download/qq_35558042/10940469?spm=1001.2014.3001.5503)   
+Instance 1:
+[FaceDetection](https://github.com/huitang96/VisionLab/tree/master/facedetection)  
+Instance 2:
+[Detection Review](https://github.com/huitang96/VisionLab/tree/master/DetectionReview)  
+Instance 3:
+[RFNet](https://github.com/huitang96/VisionLab/tree/master/RFNet)  
+
+一种类似AlphaGo有趣的事情  
+代表作品--如果能赚钱就更好了，如果是一种积淀、迭代性质的就更好的  
+小众 却很有新意和使用价值的研究：talkinghead，audio2expression，deepclothes   
+———————  
+首先收集大量的论文（每一年的会议集CVPR，ECCV，ICCV，SIGGRA等全集下载）  
+然后读摘要记录研究方向，拟解决的问题，解决方案，实验结果如何；（资源的第一性）  
+最后定制八个月或五个月计划（执行性）  
 ## *WebSite*
 [Nature Machine Intelligence ](https://www.nature.com/natmachintell/)    |    [deepmind](https://www.deepmind.com/)  
 ## *Scholar Research*
@@ -23,20 +40,7 @@ VISION LAB
 *语义分割:*  [Gated-SCNN](https://arxiv.org/pdf/1907.05740.pdf)、[ADE20k dataset](https://bbs.huaweicloud.com/blogs/252062)  
 *实例分割:*  
 *目标检测:*  
-## *Recently*  
-yolov5+edgecal：[link1](https://www.bilibili.com/video/BV1tv411N7F4/?spm_id_from=trigger_reload),[link2](https://github.com/Sharpiless/Yolov5-Flask-VUE),[link3](https://blog.csdn.net/weixin_44936889/article/details/110661862),[参考系统的知识](https://www.bilibili.com/video/BV1AT4y1X7b5?from=search&seid=13335361818699862591&spm_id_from=333.337.0.0)  [CSDN板球控制案例](https://blog.csdn.net/qq_37668803/article/details/77184498)  
-tensorflow2.0学习课程- 课程录制与资料整理启示（人工智能实践：Tensorflow笔记-wechat 公众号）  |  [MSP430资料](https://download.csdn.net/download/qq_35558042/10940469?spm=1001.2014.3001.5503)   
-Instance 1:  [FaceDetection](https://github.com/huitang96/VisionLab/tree/master/facedetection)  
-Instance 2: [Detection Review](https://github.com/huitang96/VisionLab/tree/master/DetectionReview)  
-Instance 3: [RFNet](https://github.com/huitang96/VisionLab/tree/master/RFNet)  
 
-一种类似AlphaGo有趣的事情  
-代表作品--如果能赚钱就更好了，如果是一种积淀、迭代性质的就更好的  
-小众 却很有新意和使用价值的研究：talkinghead，audio2expression，deepclothes   
-———————  
-首先收集大量的论文（每一年的会议集CVPR，ECCV，ICCV，SIGGRA等全集下载）  
-然后读摘要记录研究方向，拟解决的问题，解决方案，实验结果如何；（资源的第一性）  
-最后定制八个月或五个月计划（执行性）  
 ## *Tools*    
 [readpaper-读论文](https://readpaper.com/)  
 [反向词典-写论文](https://wantwords.net/)   
