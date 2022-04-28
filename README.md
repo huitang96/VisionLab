@@ -5,7 +5,7 @@ VISION LAB
 做有趣的研究、做有意义的研究  
 </p>
 <p align="center">
-学者  
+内驱力  
 </p>
 
 ## *WebSite*
