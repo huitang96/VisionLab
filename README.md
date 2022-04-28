@@ -14,8 +14,10 @@ tensorflow2.0学习课程- 课程录制与资料整理启示（人工智能实�
 Instance 1:
 [FaceDetection](https://github.com/huitang96/VisionLab/tree/master/facedetection)  
 Instance 2:
-[Detection Review](https://github.com/huitang96/VisionLab/tree/master/DetectionReview)  
+[MachineLearning](https://github.com/huitang96/VisionLab/tree/master/MachineLearning)  
 Instance 3:
+[Detection Review](https://github.com/huitang96/VisionLab/tree/master/DetectionReview)  
+Instance 4:
 [RFNet](https://github.com/huitang96/VisionLab/tree/master/RFNet)  
 
 一种类似AlphaGo有趣的事情  
