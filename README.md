@@ -62,3 +62,7 @@ MaskFace
 
 ## *SUBMIT*  
 [Journal](https://github.com/huitang96/VisionLab/tree/master/Journal)  
+
+## *News*
+5.8 博士考试  
+5.15 硕士论文修改  
