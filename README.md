@@ -21,7 +21,7 @@ Instance 4:
 [RFNet](https://github.com/huitang96/VisionLab/tree/master/RFNet)  
 
 一种类似AlphaGo有趣的事情  
-代表作品--如果能赚钱就更好了，如果是一种积淀、迭代性质的就更好的  
+代表作品--如果是一种积淀、迭代性质的就更好的  
 小众 却很有新意和使用价值的研究：talkinghead，audio2expression，deepclothes   
 ———————  
 首先收集大量的论文（每一年的会议集CVPR，ECCV，ICCV，SIGGRA等全集下载）  
