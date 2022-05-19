@@ -16,3 +16,6 @@ need nvidia grapic (cuda), so i wait a moment for this project
 
 # 改进YOLOV5的人脸检测算法  
 ## dataset: widerface  
+EI Congress  
+
+[会议查询](https://www.ais.cn/)  
