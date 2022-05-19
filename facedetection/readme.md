@@ -1,8 +1,8 @@
 # Face/Hand Detection  
 ## mentod: improved cascade r-cnn  
-## dataset: widerface
+## dataset: widerface  
 
-### data crul
+### data crul  
 net curl  
 
 ### 数据处理  
@@ -14,4 +14,5 @@ gcc have not install; must be follow the instruction.
 need nvidia grapic (cuda), so i wait a moment for this project
 
 
-改进YOLOV5的人脸检测算法  
+# 改进YOLOV5的人脸检测算法  
+## dataset: widerface  
