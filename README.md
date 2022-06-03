@@ -42,6 +42,8 @@ Instance 4:
 *语义分割:*  [Gated-SCNN](https://arxiv.org/pdf/1907.05740.pdf)、[ADE20k dataset](https://bbs.huaweicloud.com/blogs/252062)  
 *实例分割:*  
 *目标检测:*  
+## *DataBASE*
+*Machine Learning:*  产品/教育培训/线上课程/代做项目  
 
 ## *Tools*    
 [readpaper-读论文](https://readpaper.com/)  
