@@ -43,7 +43,9 @@ Instance 4:
 *实例分割:*  
 *目标检测:*  
 ## *Innovation*
-*Idea*  产品/教育培训/线上课程/代做项目  
+*Idea:*  产品/教育培训/线上课程/代做项目  
+*需求：*
+*可持续性：*
 
 ## *Tools*    
 [readpaper-读论文](https://readpaper.com/)  
