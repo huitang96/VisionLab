@@ -18,3 +18,6 @@ data
 ```          
     
 python Scripts/convert_widerface_to_coco.py --datadir data/widerface  --subset all --outdir ./  
+
+
+generated: wider_face_train_annot_coco_style.json \ wider_face_val_annot_coco_style.json 
