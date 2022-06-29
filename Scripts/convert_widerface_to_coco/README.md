@@ -1,7 +1,9 @@
 ## *Convert WIDERFace annotations to COCO format*
 
-download link:http://shuoyang1213.me/WIDERFACE/
 
+dataset download link:http://shuoyang1213.me/WIDERFACE/
+
+```shell
 data  
 └── widerface  
     ├── wider_face_split  
@@ -13,6 +15,6 @@ data
         └── images  
             ├── 0--Parade  
             ├── ...  
-              
+```          
     
-python scripts/convert_widerface_to_coco.py --datadir data/widerface  --subset all --outdir ./  
+python Scripts/convert_widerface_to_coco.py --datadir data/widerface  --subset all --outdir ./  
